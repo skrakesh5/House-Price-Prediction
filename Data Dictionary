@@ -1,0 +1,13 @@
+# datadictonary
+# price represents the sale price of a house in Rs.
+# area gives the total size of a property in square feet
+# bedrooms represents the number of bedrooms
+# bathrooms shows the number of bathrooms
+# stories variable shows the number of stories excluding basement
+# mainroad =1 if the house faces a main road
+# livingroom   = 1 if the house has a separate living room or a drawing room for guests
+# basement shows if the house has a basement
+# hotwaterheating  = 1 if the house uses gas for hot water heating
+# airconditioning    = 1 if there is central air conditioning
+# parking shoes the number of cars that can be parked
+# prefarea is 1 if the house is located in the preferred neighbourhood of the city
